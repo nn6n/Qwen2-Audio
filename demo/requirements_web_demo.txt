@@ -1,2 +1,3 @@
 gradio==4.31.3
 modelscope-studio
+orjson>=3.11.6 # not directly required, pinned by Snyk to avoid a vulnerability
